@@ -6,7 +6,15 @@ RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner - macOS Build Only
 
 ---
 
-# ★MyDiceBot★ - Ultimate Bitcoin Dice Bot. Bet More, Earn More!
+# ★MyDiceBot★ - Ultimate Bitcoin Dice Bot
+
+[![Github All Releases](https://img.shields.io/github/downloads/mydicebot/mydicebot.github.io/total.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub release](https://img.shields.io/github/release/mydicebot/mydicebot.github.io/all.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/mydicebot/mydicebot.github.io.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub license](https://img.shields.io/github/license/mydicebot/mydicebot.github.io.svg)](https://github.com/mydicebot/mydicebot.github.io/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/mydicebot/mydicebot.github.io.svg)](https://github.com/mydicebot/mydicebot.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mydicebot/mydicebot.github.io.svg)](https://github.com/mydicebot/mydicebot.github.io/network)
+
 * [https://mydicebot.com](https://mydicebot.com)
 * [MyDiceBot](https://mydicebot.com) is World #1 Cross-Platform Dicing Bot.
 * Multiple platforms are supported, including __Windows, Mac, Linux, Web, Terminal/Console__ and __Android__.
