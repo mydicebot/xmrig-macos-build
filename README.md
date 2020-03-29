@@ -8,7 +8,7 @@
 
 RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner - macOS Build Only
 
-# Download (latest v5.10.0)
+# Download
 * [xmrig macOS build releases](https://github.com/mydicebot/xmrig-macos-build/releases)
 
 ---
