@@ -1,4 +1,11 @@
 # xmrig macOS build
+
+[![Github All Releases](https://img.shields.io/github/downloads/mydicebot/xmrig-macos-build/total.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub release](https://img.shields.io/github/release/mydicebot/xmrig-macos-build/all.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/mydicebot/xmrig-macos-build.svg)](https://github.com/mydicebot/mydicebot.github.io/releases)
+[![GitHub license](https://img.shields.io/github/license/mydicebot/xmrig-macos-build.svg)](https://github.com/mydicebot/mydicebot.github.io/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/mydicebot/xmrig-macos-build.svg)](https://github.com/mydicebot/mydicebot.github.io/stargazers)
+
 RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner - macOS Build Only
 
 # Download (latest v5.10.0)
