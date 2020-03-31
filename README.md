@@ -73,9 +73,17 @@ The preferred way to configure the miner is the [JSON config file](src/config.js
 
 # Faucet
 * [Faucet Collector](https://faucetcollector.com/?ref=4789455)
+* [Bit Fun](http://bitfun.co/?ref=950389505790)
+* [Bonus Bitcoin](http://bonusbitcoin.co/?ref=0B26E1CAF795)
+* [Moon Bitcoin](http://moonbit.co.in/?ref=6e3fc20d04f3)
+* [Moon Dogecoin](http://moondoge.co.in/?ref=7b7eac714ebc)
+* [Moon Litecoin](http://moonliteco.in/?ref=1183cf6a9534)
+* [Moon Dash](http://moondash.co.in/?ref=4A054C71CB12)
+* [Moon Cash](http://moonbitcoin.cash/?ref=6F08451C9CF9)
 
 # Mining
 * [CryptoTab](https://cryptotabbrowser.com/4760331)
+* [MinerGate](https://minergate.com/a/840aa085f0deb4fef17fd6be)
 
 # Exchange
 * [Binance](https://www.binance.com/en/register?ref=40077522)
