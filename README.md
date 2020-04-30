@@ -20,8 +20,3 @@ The preferred way to configure the miner is the [JSON config file](src/config.js
 * **[workers.xmrig.info](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ---
-
-# [Free Dogecoin Cloud Mining + 2% Daily Profit!](https://www.doge.live/?d=100489)
-
-[![image](https://user-images.githubusercontent.com/39991582/80434847-3ea1f300-893e-11ea-8bfc-3afa404687c6.png)](https://www.doge.live/?d=100489)
-[![image](https://user-images.githubusercontent.com/39991582/80434939-8163cb00-893e-11ea-9a44-c7be8b0707d6.png)](https://www.doge.live/?d=100489)
